@@ -85,7 +85,7 @@ DATABASES = {
         'NAME': 'web',
         'USER': 'root',
         'PASSWORD': 'qwer1234',
-        'HOST': '192.168.0.100',
+        'HOST': '192.168.0.12',
         'PORT': '3306',
         'OPTIONS': {
             'init_command': 'SET sql_mode="STRICT_TRANS_TABLES"'
